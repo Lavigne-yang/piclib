@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-api/base-microservice-api.iml" filepath="$PROJECT_DIR$/base-microservice-api/base-microservice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-config/base-microservice-config.iml" filepath="$PROJECT_DIR$/base-microservice-config/base-microservice-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-config-02/base-microservice-config-02.iml" filepath="$PROJECT_DIR$/base-microservice-config-02/base-microservice-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-config-02/base-microservice-config-02 (1).iml" filepath="$PROJECT_DIR$/base-microservice-config-02/base-microservice-config-02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-config-03/base-microservice-config-02 (2).iml" filepath="$PROJECT_DIR$/base-microservice-config-03/base-microservice-config-02 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-config-03/base-microservice-config-03.iml" filepath="$PROJECT_DIR$/base-microservice-config-03/base-microservice-config-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-eureka/base-microservice-eureka.iml" filepath="$PROJECT_DIR$/base-microservice-eureka/base-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-hystrix-dashboard-01/base-microservice-hystrix-dashboard-01.iml" filepath="$PROJECT_DIR$/base-microservice-hystrix-dashboard-01/base-microservice-hystrix-dashboard-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-hystrix-turbine/base-microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/base-microservice-hystrix-turbine/base-microservice-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-provider/base-microservice-provider.iml" filepath="$PROJECT_DIR$/base-microservice-provider/base-microservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-security/base-microservice-security.iml" filepath="$PROJECT_DIR$/base-microservice-security/base-microservice-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-zuul-gateway-01/base-microservice-zuul-gateway-01.iml" filepath="$PROJECT_DIR$/base-microservice-zuul-gateway-01/base-microservice-zuul-gateway-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pic-web/pic-web.iml" filepath="$PROJECT_DIR$/pic-web/pic-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/piclib.iml" filepath="$PROJECT_DIR$/.idea/piclib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piclib-client/piclib-client.iml" filepath="$PROJECT_DIR$/piclib-client/piclib-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piclib-client-zuul/piclib-client-zuul.iml" filepath="$PROJECT_DIR$/piclib-client-zuul/piclib-client-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piclib-domian/piclib-domian.iml" filepath="$PROJECT_DIR$/piclib-domian/piclib-domian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piclib-restapi/piclib-restapi.iml" filepath="$PROJECT_DIR$/piclib-restapi/piclib-restapi.iml" />
+    </modules>
+  </component>
+</project>

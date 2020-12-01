@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base-microservice-zuul-gateway" />
+        <module name="pic-web" />
+        <module name="base-microservice-config-02 (2)" />
+        <module name="base-microservice-config-02 (1)" />
+        <module name="base-microservice-config" />
+        <module name="base-microservice-api" />
+        <module name="base-microservice-security" />
+        <module name="piclib-domian" />
+        <module name="base-microservice-provider" />
+        <module name="piclib-client" />
+        <module name="piclib-restapi" />
+        <module name="base-microservice-zuul-gateway-01" />
+        <module name="base-microservice-eureka" />
+        <module name="base-microservice-config-02" />
+        <module name="base-microservice-config-03" />
+        <module name="piclib-client-zuul" />
+        <module name="base-microservice-hystrix-dashboard-01" />
+        <module name="base-microservice-hystrix-turbine" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base-microservice-api" target="1.8" />
+      <module name="base-microservice-config" target="1.8" />
+      <module name="base-microservice-config-02" target="1.8" />
+      <module name="base-microservice-config-02 (1)" target="1.8" />
+      <module name="base-microservice-config-02 (2)" target="1.8" />
+      <module name="base-microservice-config-03" target="1.8" />
+      <module name="base-microservice-eureka" target="1.8" />
+      <module name="base-microservice-hystrix-dashboard" target="1.8" />
+      <module name="base-microservice-hystrix-dashboard-01" target="1.8" />
+      <module name="base-microservice-hystrix-turbine" target="1.8" />
+      <module name="base-microservice-provider" target="1.8" />
+      <module name="base-microservice-security" target="1.8" />
+      <module name="base-microservice-zuul-gateway" target="1.8" />
+      <module name="base-microservice-zuul-gateway-01" target="1.8" />
+      <module name="pic-web" target="1.8" />
+      <module name="piclib" target="1.8" />
+      <module name="piclib-client" target="1.8" />
+      <module name="piclib-client-zuul" target="1.8" />
+      <module name="piclib-domian" target="1.8" />
+      <module name="piclib-restapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="piclib" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+# Project exclude paths
+/base-microservice-api/target/
+/base-microservice-config/target/
+/base-microservice-config-02/target/
+/base-microservice-config-03/target/
+/base-microservice-eureka/target/
+/base-microservice-hystrix-dashboard-01/target/
+/base-microservice-hystrix-turbine/target/
+/base-microservice-provider/target/
+/base-microservice-security/target/
+/base-microservice-zuul-gateway-01/target/
+/pic-web/target/
+/piclib-client-zuul/target/
+/piclib-domian/target/
+/piclib-restapi/target/
