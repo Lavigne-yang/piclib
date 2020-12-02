@@ -1,6 +1,5 @@
 package com.yc.piclib.web.controllers;
 
-import com.google.gson.Gson;
 import com.yc.piclib.domain.PicDomain;
 import com.yc.piclib.future.PiclibFuture;
 import org.slf4j.Logger;
@@ -8,8 +7,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 
 
@@ -32,7 +29,7 @@ public class PicController {
         return piclibFuture.findPage(page, pageSize, description);
     }
 
-    @RequestMapping(method = RequestMethod.POST)
+    @RequestMapping(value = "/save", method = RequestMethod.POST)
     public CompletableFuture<String> save(@RequestBody PicDomain picDomain) throws Exception {
         return piclibFuture.create(picDomain);
     }
@@ -41,5 +38,6 @@ public class PicController {
     public CompletableFuture<String> delete(@PathVariable Integer id) throws Exception {
         return piclibFuture.delete(id);
     }
+
 
 }
